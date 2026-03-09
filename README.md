@@ -74,6 +74,14 @@ appendices/
 
 ---
 
+## Interactive Visualization
+
+[![Anthosphere Visualization](screenshot.png)](https://tonyparf.github.io/architect-of-reality/visualization.html)
+
+> *Click to open the live 3D model of the Anthosphere system*
+
+---
+
 ## What Is the Anthosphere?
 
 From Greek *anthos* (flowering) + *sphaira* (sphere): **the sphere of flourishing**.
